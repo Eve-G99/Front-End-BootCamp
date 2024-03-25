@@ -18,19 +18,6 @@ Throughout this comprehensive course, a wide array of tools and technologies are
 - DOM Manipulation
 - jQuery
 
-### Back-End Web Development
-- Node.js
-- NPM
-- Express.js
-- EJS
-- REST
-- APIs
-
-### Databases
-- SQL
-- MongoDB
-- Mongoose
-
 ### Others
 - Bash Command Line
 - Git, GitHub and Version Control
@@ -40,12 +27,6 @@ Throughout this comprehensive course, a wide array of tools and technologies are
 - React Hooks
 - Web Design
 - Deployment with GitHub Pages, Heroku and MongoDB Atlas
-
-### Blockchain and Web3 Development
-- Web3 Development on the Internet Computer
-- Blockchain technology
-- Token contract development
-- NFT minting, buying, and selling logic
 
 ## Use
 This repository is just a subset of the course and serves as a personal backup to revisit the technologies and techniques covered in the course. All rights and content are owned by Udemy.

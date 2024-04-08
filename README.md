@@ -26,4 +26,4 @@ I will continuously updating this repository as I progress through the course.
 
 Feel free to dive into the projects and code snippets in this repository. I'm all for sharing the fun (The code I put here are been selected for its interesting and practical insights), so go ahead, download, and play with the code to see these them come to life, especially if you're new to the web development.
 
-Just a little heads-up: all the materials here are owned by Udemy and the course instructor, Colt. If this peek captures your interest, I wholeheartedly encourage you to support the original creators. Trust me, Colt is the best and funniest instructor ever! Have Fun!
+Just a little heads-up: all the materials here are owned by Udemy and the course instructor, Colt. If this peek captures your interest, I wholeheartedly encourage you to support the original creators. Trust me, Colt is the best and funniest instructor ever. Have Fun!
